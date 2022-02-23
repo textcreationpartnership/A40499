@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Friendly Society, or, A proposal of a new way or method for securing houses from any considerable loss by fire, by way of subscription and mutuall contribution</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40499</idno>
+            <idno type="STC">Wing F2227</idno>
+            <idno type="STC">ESTC R9406</idno>
+            <idno type="EEBO-CITATION">13744007</idno>
+            <idno type="OCLC">ocm 13744007</idno>
+            <idno type="VID">101688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Friendly Society, or, A proposal of a new way or method for securing houses from any considerable loss by fire, by way of subscription and mutuall contribution</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Friendly Society (London, England)</term>
+               <term>Insurance, Fire --  England --  Early works to 1800.</term>
+               <term>Insurance, Fire --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:101688:1" rendition="simple:additions"/>
+            <head>The Friendly Society, OR, A PROPOSAL of a New way or Method for Securing HOUSES from any Conſiderable Loſs by FIRE, by way of Subſcription, and Mutuall Contribution.</head>
+            <p>IT is very needleſs ſure to uſe any Arguments to perſwade the Inhabitants of this Great City, of the Advantages they may Receive (as well in the quiet of their Minds, as in the real Emprovement of their Eſtates) by having their Houſes Secured, from loſs by Fire, the Terror of the Late Conflagration, &amp; its moſt Sad &amp; Miſerable Effects are too freſh in the Memories of thoſe Unfortunate perſons who were (without any Relief) Sharers in that great Calamity: But that being without Example in ſome 100<hi>'s</hi> of years paſt;<note place="margin">Yet had the whole Citys of <hi>London</hi> and <hi>Weſtminſter</hi> and <hi>Suburbs,</hi> been inga<g ref="char:EOLhyphen"/>ged in this Society, the Loſs of that great Fire had not been to each man above a Sixth part of what they Suffer'd.</note> and hoping it may never be ſo again; We ſhall apply our ſelves to the Re<g ref="char:EOLhyphen"/>dreſs of ſuch as may reaſonably be expected every Year, and that, by ſo equal, Safe, and eaſy a Method, as we hope may give Satisfaction to all perſons that ſhall be Concerned therein; The Method for doing the ſame is as followeth,</p>
+            <p n="1">1. Every perſon entring into this Society, is to Subſcribe an Inſtrument, whereby he ſhall be Obliged to ſubmit to a Rate or Tax, the Sum not exceeding 30 <hi>s.</hi> for every 100<hi>l.</hi> he ſhall Secure, on any Houſe or Houſes, when any Fire ſhall happen; which money is nevertheleſs to remain in his own hands, but to be Subject to this Condition: That in Caſe any Houſe be<g ref="char:EOLhyphen"/>longing to any one of the Society, ſhall be burnt or damnified by, or by reaſon of Fire; Then every perſon of the Society, is to pay ſuch a proportion of the money Subſcribed, as will Suffice to diſcharge and ſatisfy the Money Secured on any Houſe, ſo Burnt or Damnified.</p>
+            <p n="2">2. Every Perſon entring into this Society is to depoſite to the Undertakers the Sum of 6<hi>s.</hi> 8<hi>d.</hi> for every hundred pounds ſecured as aforeſaid, on any Houſe or Houſes, which is to remain in the hands of the Undertakers, for the ſole uſe of the Subſcribers, out of which, the Undertakers are to make preſent payment to thoſe whoſe Houſes were burnt; and the ſaid money from time to time ſo paid, is to be made up again out of the Money Subſcribed, according to their ſeveral and reſpective Rates. And at the expiration of their ſeveral Tearms is to be repaid by the Undertakers.</p>
+            <p n="3">3. Every one of this Society is to pay down to the Undertakers the Sum of 1 <hi>s.</hi> 4 <hi>d. per annum,</hi> ſo long as their Houſes are ſecured, for every 100 <hi>l.</hi> ſecured as aforeſaid, as Conſideration for their hazzard, Charge, and Care, in executing their Office.</p>
+            <p>So that he that will Secure 300 <hi>l.</hi> on any Houſe,
+<list>
+                  <item>Muſt Subſcribe—4<hi>l.</hi>—10 <hi>s.</hi>—00 <hi>d.</hi> but no part thereof to be paid but as Fire ſhall happen to the Houſes of the Society.</item>
+                  <item>Muſt Depoſite—1—00—00 which is to be paid back at the End of their Term for Securing their Houſes.</item>
+                  <item>Muſt Pay <hi>per Ann.</hi>—00—04—00 to the Undertakers</item>
+               </list>
+            </p>
+            <p>They that ſecure Timber Houſes are to Subſcribe, Depoſite, and pay Double.</p>
+            <p>In Conſideration of the Money paid to the Undertakers, they will be Obliged to pay the whole Money that ſhall at any time become due, to ſuch whoſe Houſes are Burnt, Demoliſhed or Damnified by Fire, within Sixty days after ſuch Fire ſhall happen, without Defalcation or Delay, and will abide by the loſs of all ſuch as become Inſolvent, Remove, and cannot be found, or otherwiſe make any default of Paying their ſeveral Rates from time to time.</p>
+            <p>The Undertakers will likewiſe provide Surveyors to View all the Houſes ſecured, to the End no more Money be Secured on them then they are really worth; And provide a Convenient Office where Clarks ſhall attend at Seaſonable Hours, to Regiſter the Houſes Secur'd, and file the Inſtruments, in ſuch manner, as any one Reſorting thither, may ſee how much Money is Secured on any Houſes that ſhall happen to be burnt: And then finding how much Money is Secured by the whole Society (rating the Timber-Houſes double,) they may themſelves at any time ſee how much each man is to pay reſpectively to anſwer the loſs: As for Example.</p>
+            <p>
+               <note place="margin">
+                  <p>Or if they Secure ſeveral Sums, them He that Secures <hi>300 l.</hi> muſt be rated <hi>5</hi> s.</p>
+                  <p>He that Secures <hi>400</hi>l. muſt be rated <hi>4</hi> s. He that Secures <hi>300</hi> l. muſt be rated <hi>3</hi> s. <hi>&amp;c.</hi>
+                  </p>
+               </note>If there be Houſes burnt, on which there is 750<hi>l.</hi> Secured, and there be 5000 perſons in the Society, each man Securing 300<hi>l.</hi> then muſt every man pay the Sum of 3 <hi>s.</hi> to make up the 750<hi>l.</hi> For every 100<hi>l.</hi> Secur'd muſt be rated 1 <hi>s.</hi> But there ſhall be Tables provided, that any one may preſently ſee how much they are to pay to any Fire.</p>
+            <p>And when there is 2000 Houſes Secur'd, by this Method, the Undertakers have already ſet out, and will then ſettle on ſuch Truſtees, as the Subſcribers ſhall nominate, and in ſuch manner, as the Learned in the Law ſhall adviſe, Security for performance of theſe propoſals, In good Land of Inheritance, Rent-Charge of Inheritance, and ſome few Houſes, to the Value of 16000<hi>l.</hi> and they will likewiſe give their Perſonall ſecurity for 4000<hi>l.</hi> more, to the end that the Subſcribers may chuſe whether they will (on default of Payment as aforeſaid) raiſe their Money on the Land, or Sue the Bonds, if they think it more Eaſy and Convenient for them.</p>
+            <p>And if the Subſcribers ſhall Secure ſo much Money on their Houſes, that their Truſtees ſhall think the ſaid Security not Sufficient, that they wi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l from time to time give ſuch further Security, as ſhall by the ſaid Truſtees be reaſonably required.</p>
+            <p>
+               <note place="margin">
+                  <p>The Security given is <hi>20000</hi> l</p>
+                  <p>The Money Depoſited for <hi>2000</hi> Houſes is but <hi>2000</hi> l.</p>
+               </note>Now the Benefit of Securing Houſes according to the aforeſaid Method (beſides the little ready Money it requires) may be conſidered from theſe particulars.</p>
+            <p n="1">1. That the Subſcribers do intruſt the Undertakers but with a very Inconſiderable Sum of money in reſpect of the Security given.</p>
+            <p n="2">2. That the Subſcription-Money (which is the main Fund) is moſt ſafe, becauſe it remains in the Subſcribers own hands, and ſufficient to anſwer plentiful<g ref="char:EOLhyphen"/>ly any loſs may probably happen by Fire.</p>
+            <p>This Method of Securing Houſes is moſt Eaſy, becauſe no one Caſualty can charge any man above the Subſcribed Money, be the loſs by Fire never ſo great, nor any leſſer Sum but as Caſualty by Fire happens to the Houſes of the Society.</p>
+            <p>And for the better ſerving all mens occaſions, It will be ſo Order'd, that any one of the Society may remove their Subſcriptions from one Houſe to ano<g ref="char:EOLhyphen"/>ther (unleſs the ſaid Houſe be Mortgaged, Sold, or otherwiſe Conveyed to others as a ſecured Houſe) of which the Mortgagees or Purchaſers are deſired to give notice to the Clerks attending the Office.</p>
+            <p n="3">3. The more entring into this Society makes the Fund by which the Houſes are Secured, the greater, and the Charge the leſs: And if the Number may be ſuch, as gives the Undertakers Encouragement, they will at their own Charge hire a Competent Number of Skillfull men, who ſhall on any Fire reſort thither, to quench the Same: And will alſo give Badges to Porters of known Credit, to help to remove, and Carry goods; who ſhall not receive the ſaid Badges, untill they have given Security for the true performance of their Truſt. And laſtly, becauſe there is nothing (we can Imagine) can hinder any one from entring into this Society, but the Uncertainty of the Charge, we have (for the Satisfaction of ſuch as may be inclined) made (we hope) a Reaſonable Computation, as near as can be gueſt, of all the Loſs by fire, within 15. years next following the Great Conflagration; for in ſuch Caſes there can be no better Calculation made, then by comparing the Future with the Paſt.</p>
+            <p>In <hi>London</hi> &amp; the Libertys, in the ſayd 15. years, there were near 100 Houſes burnt, which at 300 <hi>l.</hi> a Houſe one with another, the loſs will amount to 30000 <hi>l.</hi> which divided into 15. parts makes 2000<hi>l.</hi> loſs every year.</p>
+            <p>Now to repair this loſs, what muſt every Owner if they were all alike ingaged in this Society, pay?</p>
+            <p>We anſwer, that Suppoſing (to keep within Compaſs) there were in <hi>London</hi> &amp; Libertys but 20000. Houſes, and they all Secur'd at 300 <hi>l.</hi> a Houſe, (for that we think the beſt <hi>Medium</hi>) then muſt the Owners pay each man to diſcharge the 30000 <hi>l.</hi> by 2000<hi>l. per annum,</hi>
+               <note place="margin">
+                  <p>There are more then <hi>24000</hi> Houſes in <hi>London</hi> and the Liberties.</p>
+                  <p>If <hi>2000</hi> Houſes be Secured at <hi>300 l.</hi> a Houſe, the Stock will be <hi>9000</hi> l.</p>
+                  <p>If <hi>5000</hi> Houſes be Secured at <hi>300 l.</hi> a Houſe, the Stock will be <hi>22500</hi>l. which is <hi>3</hi> times as much as was burnt in the ſaid whole <hi>15</hi> years.</p>
+               </note> the Sum of 2<hi>s. per annum,</hi> and no more; which is leſs then men will generally give, to the Briefs which happen in a year: And by this Computation you may likewiſe ſee how plentifull a Stock is by this Method provided for Securing Houſes from any Caſualty by Fire.</p>
+            <p>From which Calculation alſo, it may be Obſerv'd, that the Reward to the Undertakers being only 4 <hi>s. per annum,</hi> for Securing 300<hi>l.</hi> The very INTEREST of Five Pound will by this Method anſwer all Charges of Caſuallty, and the allow<g ref="char:EOLhyphen"/>ance to the Undertakers to all Ages, if the loſs by Fire be not greater then is above-mentioned.</p>
+            <p>Every Houſe of 10<hi>l.</hi> Rent, may Secure a 100<hi>l.</hi> of 20<hi>l.</hi> Rent 200<hi>l.</hi> of 30<hi>l.</hi> Rent 300<hi>l. &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Rules are prepared Neceſſary to be Obſerved in the Management of this Affair which we hope will obviate all materiall Objections, and will in a few days be publiſhed. Such Perſons who are willing to Enter into this Society, are Deſired to Repair to the Office in</hi> Falcon-Court <hi>over againſt</hi> St Dunſtans Church <hi>in</hi> Fleetſtreet.</p>
+            <p>The Perſons that give the Security are <hi>William Hale</hi> of <hi>Kings Waldon,</hi> 
+               <abbr>Eſq</abbr> in the <hi>County of Hertford,</hi> and <hi>Henry Spelman</hi> of <hi>London,</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
